@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: medicare-app
+    env: docker
+    plan: free
+    healthCheckPath: /api/login/publickey
