@@ -231,12 +231,12 @@ export default function Login() {
                 </button>
               </form>
               
-              {/*<div className="demo-credentials mt-4">*/}
-              {/*  <p className="text-muted small mb-2">*/}
-              {/*    <i className="fas fa-info-circle me-1"></i>Demo credentials:*/}
-              {/*  </p>*/}
-              {/*  <code className="d-block">user / Password123!</code>*/}
-              {/*</div>*/}
+              <div className="demo-credentials mt-4">
+                <p className="text-muted small mb-2">
+               <i className="fas fa-info-circle me-1"></i>Demo credentials:
+              </p>
+             <code className="d-block">user / Password123!</code>
+              </div>
             </div>
           </div>
         </div>
