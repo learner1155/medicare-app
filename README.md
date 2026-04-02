@@ -5,7 +5,6 @@ A full-stack healthcare management application built with **React** (frontend) a
 ![.NET](https://img.shields.io/badge/.NET-8.0-512BD4?logo=dotnet)
 ![React](https://img.shields.io/badge/React-19-61DAFB?logo=react)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3-7952B3?logo=bootstrap)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 ## ?? Features
 
@@ -41,12 +40,6 @@ A full-stack healthcare management application built with **React** (frontend) a
 
 ## ?? Getting Started
 
-### Clone the Repository
-
-```bash
-git clone https://github.com/YOUR_USERNAME/medicare-app.git
-cd medicare-app
-```
 
 ### Backend Setup
 
@@ -138,7 +131,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## ????? Author
 
-Your Name - [@yourhandle](https://github.com/YOUR_USERNAME)
+Your Name - Prakash Bodhane
 
 ---
 
